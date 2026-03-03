@@ -1,11 +1,6 @@
 # 👋 Hi, I’m Kavya Sree Chandhi  
 
-🚀 **Generative AI & ML Engineer** with 3+ years of experience delivering enterprise AI solutions across **education, finance, healthcare, and automotive** domains.  
-
-💡 Specialized in **Generative AI, Conversational AI, Multi-Agent Systems, RAG pipelines, and Prompt Engineering**, with hands-on expertise in **LangChain, LangGraph, Hugging Face, OpenAI, and Ollama**.  
-📈 Led the development of **UWorld’s AI-Enhanced Test Prep Platform**, boosting student engagement by **40%** through AI-driven essay grading, adaptive simulations, and gamified learning.  
-🛠 Skilled in **Python, SQL, PyTorch, TensorFlow, Keras**, with proven impact in **fraud detection, risk analytics, and medical imaging**.  
-☁️ Experienced in **end-to-end AI/ML delivery** — from data engineering and model training to **cloud deployment (Azure, AWS, Oracle, GCP)**, **MLOps (MLflow, Kubernetes, CI/CD)**, and production monitoring.  
+**Generative AI & ML Engineer** with 5+ years of experience delivering enterprise AI solutions across education, finance, healthcare, and automotive domains. Specialized in Generative AI, Conversational AI, Multi-Agent Systems, RAG pipelines, and prompt engineering, with hands-on expertise in LangChain, LangGraph, Hugging Face, OpenAI, and Ollama. Led the development of UWorld’s AI-Enhanced Test Prep Platform, boosting student engagement by 40% through AI-driven essay grading, adaptive simulations, and gamified learning. Skilled in Python, SQL, and deep learning frameworks (PyTorch, TensorFlow, Keras), with proven impact in fraud detection, risk analytics, and medical imaging. Experienced in end-to-end AI/ML delivery — from data engineering and model training to cloud deployment (Azure, AWS), MLOps (MLflow, Kubernetes, CI/CD), and production monitoring — delivering scalable, compliant, and high-performance AI systems.
 
 ---
 
@@ -28,7 +23,7 @@
 - Explored GenAI prototypes enabling natural-language PLM queries.  
 - CI/CD with Docker + Jenkins → deployment cycles reduced from weeks → hours.  
 
-### 🟩 Pelican IT Solutions – *Data Analyst* (Aug 2021 – Jul 2022 | Hyderabad, India)  
+### 🟩 Pelican IT Solutions – *Data Analyst* (Feb 2020 – Jul 2022 | Hyderabad, India)  
 - Fraud detection models (Random Forest, Autoencoders, Isolation Forest) → accuracy +20%.  
 - Automated ETL with Python (Pandas, NumPy, Scikit-learn).  
 - Fraud monitoring dashboards (Flask + Grafana).  
@@ -39,19 +34,20 @@
 
 ## 🛠 Technical Skills  
 
-- **Programming:** Python, C, JavaScript, SQL  
-- **Generative AI:** LLMs, RAG, Prompt Engineering, Fine-Tuning, AI Agents, LangChain, Hugging Face, OpenAI, Ollama, DALL·E  
-- **Machine Learning & Data Science:** Supervised/Unsupervised Learning, Predictive Modeling, Scikit-learn, Cross-Validation  
-- **Deep Learning & CV:** CNN, RNN, LSTM, ResNet, VGG, MobileNet, GANs, PyTorch, TensorFlow, Keras  
-- **NLP:** Sentiment Analysis, Summarization, NER, spaCy, NLTK  
-- **Big Data & Streaming:** Spark, Hadoop, Kafka, Snowflake, Redshift, BigQuery  
-- **MLOps & DevOps:** Docker, Kubernetes, Jenkins, GitHub Actions, MLflow, W&B, DVC, Airflow, Terraform, Helm  
-- **Responsible AI:** SHAP, LIME, Fairlearn, HIPAA, GDPR, PCI DSS, RBI Guidelines  
-- **Visualization & Analytics:** Power BI, Tableau, Grafana, Matplotlib, Seaborn, Plotly  
-- **Cloud Platforms:** Azure, AWS, GCP, Oracle Cloud  
-- **Databases:** SQL, MySQL, PostgreSQL, MongoDB, DynamoDB, Neo4j  
-- **Web Development:** REST APIs, FastAPI, Flask, Streamlit, Django  
-- **Collaboration & Tools:** Git, Jira, Confluence, Jupyter, VS Code, PyCharm, Anaconda, Orange  
+•	**Programming Languages:** Python, C, JavaScript, SQL
+•	**Generative AI:** LLMs, RAG, Prompt Engineering, Fine-Tuning, AI Agents, LangChain, LangGraph, Hugging Face, OpenAI, Ollama, DALL·E, Vector Databases (Milvus, ChromaDB, Pinecone)
+•	**Machine Learning & Data Science:** Supervised/Unsupervised Learning, Predictive Modeling, Feature Engineering, Cross- Validation, Hyperparameter Tuning, Statistical Analysis, Scikit-learn
+•	**Deep Learning & Computer Vision:** ANN, CNN, RNN, LSTM, ResNet, VGG, MobileNet, Transfer Learning, GANs, Autoencoders, OpenCV, PyTorch, TensorFlow, Keras
+•	**NLP:** Sentiment Analysis, Summarization, NER, Emotion Detection, Text Classification, spaCy, NLTK
+•	**Recommender Systems & Optimization:** Collaborative Filtering, Matrix Factorization, Bayesian Optimization, Optuna, Hyperopt
+•	**Big Data & Streaming:** Apache Spark, PySpark, Hadoop, Kafka, Spark Streaming, Snowflake, Redshift, Azure Data Lake, BigQuery
+•	**MLOps & DevOps:** Docker, Kubernetes, Jenkins, GitHub Actions, MLflow, W&B, DVC, Terraform, Airflow, Helm, CI/CD Pipelines
+•	**Responsible AI & Compliance:** SHAP, LIME, Fairlearn, HIPAA, GDPR, PCI DSS, RBI Guidelines
+•	**Visualization & Analytics:** Power BI, Tableau, Grafana, Matplotlib, Seaborn, Plotly, Dash, Excel, EDA, Predictive Analytics
+•	**Cloud Platforms:** Microsoft Azure (Prompt Flow, Bot Framework, Cosmos DB, Data Factory), AWS (SageMaker, Lambda, EC2, S3, RDS, Glue)
+•	**Databases:** SQL, MySQL, PostgreSQL, MongoDB, DynamoDB, NoSQL, Neo4j
+•	**API & Web Development:** RESTful APIs, FastAPI, Flask, Streamlit, Django
+•	**Collaboration & Tools:** Git, Jira, Confluence, Jupyter Notebook, VS Code, PyCharm, Anaconda, Orange
 
 ---
 
