@@ -137,7 +137,7 @@ Software Engineer with **5+ years of experience** developing scalable backend ap
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/chandhi-kavya-sree/
 - 🐙 **GitHub:** https://github.com/kavya-sree-chandhi
 - 🌐 **Portfolio:** https://kavya-sree-chandhi.github.io
-- 📄 **Resume:** KavyaSreeChandhipdf
+- 📄 **Resume:** KavyaSreeChandhi.pdf
 - 📞 **Phone:** +1 (940)-629-8898
 - 📍 **Location:** Herriman, Utah, USA
 
