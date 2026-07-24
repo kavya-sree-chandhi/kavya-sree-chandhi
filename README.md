@@ -13,7 +13,7 @@ IT, and leadership teams to ensure high data integrity, strict security standard
 
 ## 🧑‍💼 Professional Experience
 
-### 🏥 Uftorld,USA  – *Generative AI Engineer*  
+### 🏥 UWorld,USA  – *Generative AI Engineer*  
 **Aug 2024 – Jan 2026 | Salt Lake City, Utah**
 
 • Built tracking pipelines using Azure Application Insights to monitor real-Lme user acLvity, system upLme, and
