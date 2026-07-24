@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Kavya Sree Chandhi
 
-**Softftare Engineer | Python | AftS | SQL | Generative AI**
+**Software Engineer | Python | AI | SQL | Generative AI**
 
 AI & Data Analytics Specialist with 5+ years of experience building scalable data processing pipelines, interacLve BI
 dashboards, and AI-driven automaLon systems. Proven domain background in banking and financial services (BFSI),
