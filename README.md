@@ -2,7 +2,7 @@
 
 **Software Engineer | Python | AWS | SQL | Generative AI**
 
-AI & Data Analytics Specialist with 5ti years of experience building scalable data processing pipelines, interacLve BI
+AI & Data Analytics Specialist with 5+ years of experience building scalable data processing pipelines, interacLve BI
 dashboards, and AI-driven automaLon systems. Proven domain background in banking and financial services (BFSI),
 specializing in transacLon risk analyLcs, anomaly detecLon, ETL automaLon, and regulatory compliance
 (KYC/AML). Proficient in Python, SQL, Tableau, Grafana, and Generative AI frameworks to transform complex datasets
